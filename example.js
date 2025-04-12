@@ -123,3 +123,4 @@ mypromise.then((name)=>{//for success .then is use  and the catch is used for fa
 .catch(()=>{
     console.log('Failure')
 })
+
